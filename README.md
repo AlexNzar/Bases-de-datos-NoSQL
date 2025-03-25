@@ -1,4 +1,4 @@
-# Bases-de-datos-NoSQL 402
+# Bases-de-datos-NoSQL
 
 introducción a los datos semi-estructurados y no estructurados. 
 
