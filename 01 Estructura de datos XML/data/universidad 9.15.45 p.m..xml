@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<universidad><estudiante id="101"><nombre>Ana</nombre><apellido>García</apellido><carrera>Ingeniería</carrera><promedio>4.2</promedio></estudiante><estudiante id="102"><nombre>Luis</nombre><apellido>Martínez</apellido><carrera>Medicina</carrera><promedio>4.8</promedio></estudiante><estudiante id="103"><nombre>Carlos</nombre><apellido>Rodríguez</apellido><carrera>Derecho</carrera><promedio>3.9</promedio></estudiante></universidad>
